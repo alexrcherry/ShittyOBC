@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "BMI088")(type "KiCad")(uri "C:/Users/alexr/OneDrive/Documents/BMI088")(options "")(descr ""))
+  (lib (name "Blue Pill + others")(type "KiCad")(uri "C:/Users/alexr/OneDrive/Documents/Blue Pill Kicad/chinabluepill.pretty")(options "")(descr ""))
+  (lib (name "MS5607-02BA03")(type "KiCad")(uri "C:/Users/alexr/OneDrive/Documents/ShittyOBC in progress/Symbols+footprints/MS5607-02BA03")(options "")(descr ""))
+  (lib (name "MMC5983MA")(type "KiCad")(uri "C:/Users/alexr/OneDrive/Documents/ShittyOBC in progress/Symbols+footprints/MMC5983MA")(options "")(descr ""))
+)

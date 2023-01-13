@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "ShittyOBC-rescue")(type "Legacy")(uri "${KIPRJMOD}/ShittyOBC-rescue.lib")(options "")(descr "")(disabled))
+  (lib (name "BMI088")(type "Legacy")(uri "C:/Users/alexr/OneDrive/Documents/BMI088/BMI088.lib")(options "")(descr ""))
+  (lib (name "Blue Pill + others")(type "Legacy")(uri "C:/Users/alexr/OneDrive/Documents/Blue Pill Kicad/library/china_bluepill.lib")(options "")(descr ""))
+  (lib (name "MS5607-02BA03")(type "Legacy")(uri "C:/Users/alexr/OneDrive/Documents/ShittyOBC in progress/Symbols+footprints/MS5607-02BA03/MS560702BA03-50.lib")(options "")(descr ""))
+  (lib (name "MMC5983MA")(type "Legacy")(uri "C:/Users/alexr/OneDrive/Documents/ShittyOBC in progress/Symbols+footprints/MMC5983MA/MMC5983MA.lib")(options "")(descr ""))
+)
